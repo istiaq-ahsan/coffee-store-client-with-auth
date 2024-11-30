@@ -107,7 +107,7 @@ const AddCoffee = () => {
 
                     </div>
                     <div className="form-control mt-6">
-                        <button className="btn btn-primary">Add Coffee</button>
+                        <button className="btn btn-neutral">Add Coffee</button>
                     </div>
                 </form>
             </div>
